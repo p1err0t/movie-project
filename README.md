@@ -1,4 +1,4 @@
-# movies-project
+# Movies Project
 
 An autist with semi-knowledge on coding writes a simple program that list movies, tv series, anime, k-drama.
 If you wanna contribute dont hesitate to contact me @richiesumohid@yahoo.com
